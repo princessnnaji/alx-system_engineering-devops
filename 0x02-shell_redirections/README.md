@@ -1,1 +1,1 @@
-These are the solutionsto the task given
+This script contains the slutions to the given tasks
