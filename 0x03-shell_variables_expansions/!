@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(print $PATH | tr ":" " \n" | wc -w)
+echo $(prinf $PATH | tr ":' " \n" | wc -w)
